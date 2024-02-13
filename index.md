@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Avinash's CV
 ---
 # Avinash N
 Analytics and AI Professional
@@ -20,12 +20,10 @@ Data Science and AI enthusiast with a proven track record in leveraging advanced
 
 ## Employment
 
-`February 2023 - Present`  
+`Feb '23 - Present`  
 __Intellipaat__  
 Data Scientist Intern  
-> Solving 21st-century problems by democratizing knowledge and revolutionizing e-learning with expert collaborations and innovative training solutions.
-
-- Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
+> - Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
 - Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
 - Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
 - Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
@@ -59,36 +57,27 @@ Developed interactive data visualizations for Walmart sales analysis, enabling a
 
 ## Education
 
-`Sep 2022 - Aug 2023`  
+`Sep '22 - Aug '23`  
 __Indian Institute of Technology Madras__  
 Advanced Certification in Data Science and AI
 
-Relevant Coursework: Database Management, Data Analysis, Data Visualization, Machine Learning, Deep Learning, NLP, Cloud computing, Version control
-
-`Jul 2020 - May 2023`  
+`Jul '20 - May '23`  
 __PSG College of Arts & Science__  
 B.Com with Computer Applications
 
-Relevant Coursework: Mathematics, Statistics, Economics, Business Analytics, MIS, Fundamentals of C & C++, Java.
-
 ## Certification
 
-`Nov 2023`  
-__JPMorgan Chase & Co.__  
-Quantitative Research, Job Simulation on Forage  
-- Improved default prediction accuracy by analyzing loans and transforming FICO scores into categorical data.
-
-`Sept 2023`  
-__BCG X Data Science__  
-Job Simulation on Forage  
-- Analyzed customer retention challenges for PowerCo, resulting in a 10% improvement in customer satisfaction.
+`Nov'23`  
+__JPMorgan Chase & Co.__ Quantitative Research (_Job Simulation on Forage_)
+`Sept'23`  
+__BCG X__ Data Science (_Job Simulation on Forage_)
 
 ## Volunteering
 
 ### Young Indians
 
 Chairperson  
-`Jul 2020 - May 2023`
+`2020-23`
 
 - Guided strategic initiatives, emphasizing youth leadership and thought leadership.
 - Managed diverse verticals, including Innovation, Entrepreneurship, and Climate Change.
@@ -97,7 +86,7 @@ Chairperson
 ### PSG CAS
 
 Event Organizer  
-`Jul 2020 - May 2023`
+`2020-23`
 
 - Communicated effectively in organizing both inter and intra-college events.
 - Demonstrated quick decision-making skills to ensure event execution success.
@@ -107,17 +96,11 @@ Event Organizer
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+* <i class="fa fa-github"></i> <a href="https://github.com/avinashndatascientist">Github</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/avinashndatascientist/">LinkedIn</a>
+* <i class="fa fa-medium"></i> <a href="https://medium.com/@avinashndatascientist">Blog</a>
 
-## References
+# References
 
 Available on request.
 
