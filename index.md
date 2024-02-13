@@ -21,8 +21,7 @@ Data Science and AI enthusiast with a proven track record in leveraging advanced
 ## Employment
 
 `2023-`  
-__Intellipaat__  
-Data Scientist Intern  
+__Intellipaat__ Data Scientist Intern  
 > - Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
 > - Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
 > - Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
@@ -39,15 +38,11 @@ Achieved a 95% accuracy rate in Customer Churn Analysis by enhancing model accur
 
 ### Stock Prediction
 
-Improved stock price forecasting by achieving a 15% enhancement in prediction accuracy, reducing Mean Squared Error (MSE) by 20% through fine-tuning. Implemented LSTM and GRU models for time-series forecasting, contributing to more accurate decision-making.
+Improved stock price forecasting by achieving a 15% enhancement in prediction accuracy, reducing Mean Squared Error (MSE) by 20% through fine-tuning. Implemented LSTM and GRU models for time-series forecasting, contributing to more accurate decision-making. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Stock%20Price%20Prediction)
 
-[View on GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Stock%20Price%20Prediction)
-
-### Fraud Prediction
+### [Fraud Prediction](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
 
 Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a high-precision model measured by the AUC. Improved model performance through the implementation of oversampling techniques and fine-tuning precision and recall parameters.
-
-[View on GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
 
 ### Sales Analysis
 
