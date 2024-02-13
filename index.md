@@ -19,7 +19,6 @@ Analytics and AI Professional
 Data Science and AI enthusiast with a proven track record in leveraging advanced analytics and machine learning to drive actionable insights. Skilled in developing innovative solutions, optimizing models for accuracy, and collaborating cross-functionally to deliver impactful results.
 
 ## Employment
-
 `2023-`  
 __Intellipaat__ Data Scientist Intern  
 > - Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
@@ -32,31 +31,26 @@ __Intellipaat__ Data Scientist Intern
 
 ### Churn Analysis
 
-Achieved a 95% accuracy rate in Customer Churn Analysis by enhancing model accuracy by 13% through precise hyperparameter tuning. Identified key drivers, including Transaction Count and Revolving Balance, influencing customer attrition.
-
-[View on GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Bank%20Customer%20Churn)
+Achieved a 95% accuracy rate in Customer Churn Analysis by enhancing model accuracy by 13% through precise hyperparameter tuning. Identified key drivers, including Transaction Count and Revolving Balance, influencing customer attrition.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Bank%20Customer%20Churn)
 
 ### Stock Prediction
 
 Improved stock price forecasting by achieving a 15% enhancement in prediction accuracy, reducing Mean Squared Error (MSE) by 20% through fine-tuning. Implemented LSTM and GRU models for time-series forecasting, contributing to more accurate decision-making. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Stock%20Price%20Prediction)
 
-### [Fraud Prediction](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
+### Fraud Prediction
 
-Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a high-precision model measured by the AUC. Improved model performance through the implementation of oversampling techniques and fine-tuning precision and recall parameters.
+Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a high-precision model measured by the AUC. Improved model performance through the implementation of oversampling techniques and fine-tuning precision and recall parameters. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
 
 ### Sales Analysis
 
-Developed interactive data visualizations for Walmart sales analysis, enabling an interactive exploration of trends and insights. Applied time series analysis and machine learning algorithms to construct a predictive model.
-
-[View on GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Walmart%20Sales%20Forecast)
+Developed interactive data visualizations for Walmart sales analysis, enabling an interactive exploration of trends and insights. Applied time series analysis and machine learning algorithms to construct a predictive model.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Walmart%20Sales%20Forecast)
 
 ## Education
-
 `2022-23`  
-__Indian Institute of Technology Madras__ Advanced Certification in Data Science and AI
+__Indian Institute of Technology Madras__ Advanced Certification in Data Science and AI (_Distinction_)
 
 `2020-23`  
-__PSG College of Arts & Science__ B.Com with Computer Applications
+__PSG College of Arts & Science__ B.Com with Computer Applications (_Distinction_)
 
 ## Certification
 
