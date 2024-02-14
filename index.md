@@ -21,11 +21,11 @@ Data Science and AI enthusiast with a proven track record in leveraging advanced
 ## Employment
 `2023-`  
 __Intellipaat__ Data Scientist Intern  
-> - Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
-> - Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
-> - Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
-> - Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
-> - Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
+> Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
+> Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
+> Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
+> Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
+> Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
 
 ## Projects
 
