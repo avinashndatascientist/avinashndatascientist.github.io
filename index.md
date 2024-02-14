@@ -19,12 +19,16 @@ Analytics and AI Professional
 Data Science and AI enthusiast with a proven track record in leveraging advanced analytics and machine learning to drive actionable insights. Skilled in developing innovative solutions, optimizing models for accuracy, and collaborating cross-functionally to deliver impactful results.
 
 ## Employment
-`2023-`  
-__Intellipaat__ Data Scientist Intern  
+`2020-` 
+__Intellipaat__ Data Scientist. 
 > Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
+> 
 > Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
+> 
 > Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
+> 
 > Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
+> 
 > Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
 
 ## Projects
@@ -46,17 +50,21 @@ Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a hig
 Developed interactive data visualizations for Walmart sales analysis, enabling an interactive exploration of trends and insights. Applied time series analysis and machine learning algorithms to construct a predictive model.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Walmart%20Sales%20Forecast)
 
 ## Education
-`2022-23`  
-__Indian Institute of Technology Madras__ Advanced Certification in Data Science and AI (_Distinction_)
 
-`2020-23`  
-__PSG College of Arts & Science__ B.Com with Computer Applications (_Distinction_)
+`2022-23`
+__Indian Institute of Technology Madras__ Advanced Certification in Data Science and AI
+
+`2020-23`
+__PSG College of Arts & Science__ B.Com with Computer Applications 
+
+
 
 ## Certification
 
-`2023`  
+`2023`
 __JPMorgan Chase & Co.__ Quantitative Research (_Job Simulation on Forage_)
-`2023`  
+
+`2023`
 __BCG X__ Data Science (_Job Simulation on Forage_)
 
 ## Volunteering
@@ -65,17 +73,17 @@ __BCG X__ Data Science (_Job Simulation on Forage_)
 
 Chairperson  
 `2020-23`
-> - Guided strategic initiatives, emphasizing youth leadership and thought leadership.
-> - Managed diverse verticals, including Innovation, Entrepreneurship, and Climate Change.
-> - Focused on fostering collaboration and a positive team culture.
+> Guided strategic initiatives, emphasizing youth leadership and thought leadership.
+> Managed diverse verticals, including Innovation, Entrepreneurship, and Climate Change.
+> Focused on fostering collaboration and a positive team culture.
 
 ### PSG CAS
 
 Event Organizer  
 `2020-23`
-> - Communicated effectively in organizing both inter and intra-college events.
-> - Demonstrated quick decision-making skills to ensure event execution success.
-> - Collaborated with teams to enhance participant experiences.
+> Communicated effectively in organizing both inter and intra-college events.
+> Demonstrated quick decision-making skills to ensure event execution success.
+> Collaborated with teams to enhance participant experiences.
 
 
 ## Links
