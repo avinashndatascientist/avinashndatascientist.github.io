@@ -14,13 +14,18 @@ Analytics and AI Professional
 </div>
 
 
-## Currently
+## About
 
 Data Science and AI enthusiast with a proven track record in leveraging advanced analytics and machine learning to drive actionable insights. Skilled in developing innovative solutions, optimizing models for accuracy, and collaborating cross-functionally to deliver impactful results.
 
+## Skills
+
+__Programming languages:__ <i class="fa-solid fa-database"></i>SQL, <i class="fa-brands fa-python"></i> Python (NumPy, Pandas, Matplotlib, Sci-kit Learn, TensorFlow, Keras)
+__Tech Stack:__ Microsoft Fabric, Azure ML, Power BI, Excel, GIT
+
 ## Employment
 `2023-` 
-__Intellipaat__ Data Scientist. 
+__Intellipaat__ Data Scientist 
 > • Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
 > 
 > • Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
@@ -53,7 +58,6 @@ __Indian Institute of Technology Madras__ Advanced Certification in Data Science
 
 `2020-23`
 __PSG College of Arts & Science__ B.Com with Computer Applications 
-
 
 
 ## Certification
