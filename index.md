@@ -19,35 +19,32 @@ Analytics and AI Professional
 Data Science and AI enthusiast with a proven track record in leveraging advanced analytics and machine learning to drive actionable insights. Skilled in developing innovative solutions, optimizing models for accuracy, and collaborating cross-functionally to deliver impactful results.
 
 ## Employment
-`2020-` 
+`2023-` 
 __Intellipaat__ Data Scientist. 
-> Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
+> • Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
 > 
-> Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
+> • Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
 > 
-> Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
+> • Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
 > 
-> Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
+> • Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
 > 
-> Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
+> • Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
 
 ## Projects
 
-### Churn Analysis
+### Analytics 
+__Churn Analysis__
+>Achieved a 95% accuracy rate in Customer Churn Analysis by enhancing model accuracy by 13% through precise hyperparameter tuning. Identified key drivers, including Transaction Count and Revolving Balance, influencing customer attrition.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Bank%20Customer%20Churn)
 
-Achieved a 95% accuracy rate in Customer Churn Analysis by enhancing model accuracy by 13% through precise hyperparameter tuning. Identified key drivers, including Transaction Count and Revolving Balance, influencing customer attrition.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Bank%20Customer%20Churn)
+__Stock Prediction__
+>Improved stock price forecasting by achieving a 15% enhancement in prediction accuracy, reducing Mean Squared Error (MSE) by 20% through fine-tuning. Implemented LSTM and GRU models for time-series forecasting, contributing to more accurate decision-making. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Stock%20Price%20Prediction)
 
-### Stock Prediction
+__Fraud Prediction__
+>Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a high-precision model measured by the AUC. Improved model performance through the implementation of oversampling techniques and fine-tuning precision and recall parameters. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
 
-Improved stock price forecasting by achieving a 15% enhancement in prediction accuracy, reducing Mean Squared Error (MSE) by 20% through fine-tuning. Implemented LSTM and GRU models for time-series forecasting, contributing to more accurate decision-making. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Stock%20Price%20Prediction)
-
-### Fraud Prediction
-
-Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a high-precision model measured by the AUC. Improved model performance through the implementation of oversampling techniques and fine-tuning precision and recall parameters. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
-
-### Sales Analysis
-
-Developed interactive data visualizations for Walmart sales analysis, enabling an interactive exploration of trends and insights. Applied time series analysis and machine learning algorithms to construct a predictive model.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Walmart%20Sales%20Forecast)
+__Sales Analysis__
+>Developed interactive data visualizations for Walmart sales analysis, enabling an interactive exploration of trends and insights. Applied time series analysis and machine learning algorithms to construct a predictive model.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Walmart%20Sales%20Forecast)
 
 ## Education
 
@@ -68,22 +65,13 @@ __JPMorgan Chase & Co.__ Quantitative Research (_Job Simulation on Forage_)
 __BCG X__ Data Science (_Job Simulation on Forage_)
 
 ## Volunteering
-
-### Young Indians
-
-Chairperson  
 `2020-23`
-> Guided strategic initiatives, emphasizing youth leadership and thought leadership.
-> Managed diverse verticals, including Innovation, Entrepreneurship, and Climate Change.
-> Focused on fostering collaboration and a positive team culture.
+__Young Indians__ Chairperson  
+> Led strategic initiatives to empower youth leadership and promote thought leadership. Managed diverse verticals, including Innovation, Entrepreneurship, and Climate Change, fostering collaboration and a positive team culture.
 
-### PSG CAS
-
-Event Organizer  
 `2020-23`
-> Communicated effectively in organizing both inter and intra-college events.
-> Demonstrated quick decision-making skills to ensure event execution success.
-> Collaborated with teams to enhance participant experiences.
+__PSG CAS__ Event Organizer  
+> Organized inter and intra-college events, demonstrating effective communication and quick decision-making skills. Collaborated with teams to enhance participant experiences and ensure event execution success.
 
 
 ## Links
