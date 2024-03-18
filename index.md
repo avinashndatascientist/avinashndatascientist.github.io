@@ -16,7 +16,7 @@ Analytics and AI Professional
 
 ## About
 
-Data Science and AI enthusiast with a proven track record in leveraging advanced analytics and machine learning to drive actionable insights. Skilled in developing innovative solutions, optimizing models for accuracy, and collaborating cross-functionally to deliver impactful results.
+Analytics and AI enthusiast with a proven track record in leveraging advanced analytics and machine learning to drive actionable insights. Skilled in developing innovative solutions, optimizing models for accuracy, and collaborating cross-functionally to deliver impactful results.
 
 ## Skills
 
@@ -25,16 +25,15 @@ __Programming languages:__ SQL, Python
 __Tech Stack:__ Microsoft Fabric, Azure ML, Power BI, Excel, GIT
 
 ## Employment
-`2023-` 
+`2024-` 
+__Lillup__ Development Engineer 
+> • Developing and optimizing NLP, ML, and LLM algorithms and applications.
+
+`2023-2024` 
 __Intellipaat__ Data Scientist 
-> • Applied machine learning algorithms and predictive analytics to optimize personalized courses and content delivery, resulting 20% increase in user engagement.
-> 
-> • Executed a strategic cohort-based revenue analysis, identifying high-value customer cohorts and guiding targeted marketing efforts resulting in a 12% gain in overall revenue.
-> 
-> • Collaborated with cross-functional teams, enhancing traceability of customer drops, resulting in a 15% improvement in issue resolution.
-> 
-> • Implemented NLP for sentiment analysis, providing insights into trainer performance and course effectiveness.
-> 
+> • Analyzed a large dataset of customer behavior to identify patterns and trends, leading to the development of a personalized recommendation system that increased click-through rates by 20%.
+> • Designed and developed a machine learning model to analyze customer feedback data, leading to the identification of key areas for product improvement and a 15% increase in customer satisfaction scores.
+> • Collaborated with a team of scientists and engineers to optimize a deep learning algorithm for natural language processing, resulting in a 30% improvement in language understanding and sentiment analysis.
 > • Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
 
 ## Projects
