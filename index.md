@@ -32,8 +32,11 @@ __Lillup__ Development Engineer
 `2023-2024` 
 __Intellipaat__ Data Scientist 
 > • Analyzed a large dataset of customer behavior to identify patterns and trends, leading to the development of a personalized recommendation system that increased click-through rates by 20%.
+> 
 > • Designed and developed a machine learning model to analyze customer feedback data, leading to the identification of key areas for product improvement and a 15% increase in customer satisfaction scores.
+> 
 > • Collaborated with a team of scientists and engineers to optimize a deep learning algorithm for natural language processing, resulting in a 30% improvement in language understanding and sentiment analysis.
+> 
 > • Deployed interactive dashboards for stakeholders, offering real-time insights into key performance metrics.
 
 ## Projects
