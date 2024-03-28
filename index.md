@@ -28,6 +28,11 @@ __Tech Stack:__ Microsoft Fabric, Azure ML, Power BI, Excel, GIT
 `2024-` 
 __Lillup__ Development Engineer 
 > • Developing and optimizing NLP, ML, and LLM algorithms and applications.
+>
+> • Conducting experiments and evaluating the model performances, providing insights to enhance model effectiveness.
+>
+> • Engaged in research activities to explore new techniques and advancements in AI.
+
 
 `2023-2024` 
 __Intellipaat__ Data Scientist 
@@ -64,6 +69,9 @@ __PSG College of Arts & Science__ B.Com with Computer Applications
 
 
 ## Certification
+
+`2024`
+__DeepLearning.AI & AWS__ Generative AI with Large Language Models
 
 `2023`
 __JPMorgan Chase & Co.__ Quantitative Research (_Job Simulation on Forage_)
