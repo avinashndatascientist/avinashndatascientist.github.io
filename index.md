@@ -50,12 +50,15 @@ __Intellipaat__ Data Scientist
 `2023`
 __Churn Analysis__
 >Achieved a 95% accuracy rate in Customer Churn Analysis by enhancing model accuracy by 13% through precise hyperparameter tuning. Identified key drivers, including Transaction Count and Revolving Balance, influencing customer attrition.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Bank%20Customer%20Churn)
+
 `2023`
 __Stock Prediction__
 >Improved stock price forecasting by achieving a 15% enhancement in prediction accuracy, reducing Mean Squared Error (MSE) by 20% through fine-tuning. Implemented LSTM and GRU models for time-series forecasting, contributing to more accurate decision-making. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Stock%20Price%20Prediction)
+
 `2023`
 __Fraud Prediction__
 >Attained a 99% accuracy rate in Fraud Transaction Prediction by developing a high-precision model measured by the AUC. Improved model performance through the implementation of oversampling techniques and fine-tuning precision and recall parameters. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
+
 `2023`
 __Sales Analysis__
 >Developed interactive data visualizations for Walmart sales analysis, enabling an interactive exploration of trends and insights. Applied time series analysis and machine learning algorithms to construct a predictive model.[GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Walmart%20Sales%20Forecast)
