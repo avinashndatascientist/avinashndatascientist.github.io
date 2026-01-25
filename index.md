@@ -23,7 +23,7 @@ __Tech Stack:__ Zapier, Power BI, Excel
 
 ## Employment
 
-`Mar 2025 - Present`
+`Mar '25 - Present`
 __Invisible Technologies__ Quality Analyst - AI Training
 
 > • Lead quality oversight and performance evaluation for a team of AI trainers, ensuring deliverables meet client specifications and quality benchmarks.
@@ -32,7 +32,7 @@ __Invisible Technologies__ Quality Analyst - AI Training
 >
 > • Serve as liaison between training teams and clients to ensure seamless communication and expectation management.
 
-`Apr 2024 - Mar 2025`
+`Apr '24 - Mar '25`
 __Invisible Technologies__ Advanced AI Trainer - Software Development
 
 > • Trained and fine-tuned AI models for software development applications using SFT and RLHF methodologies.
@@ -43,14 +43,14 @@ __Invisible Technologies__ Advanced AI Trainer - Software Development
 >
 > • Probed model limitations through edge case testing and boundary analysis, documenting weaknesses to optimize training methodologies and enhance model robustness.
 
-`Oct 2023 - Mar 2024`
+`Oct '23 - Mar '24`
 __HASHh Automations__ Data Analyst - Internship
 
 > • Designed a recommendation system for energy-saving actions, reducing residential bills by an average of 12%.
 >
 > • Integrated real-time usage metrics into the consumer app, collaborating with the development team.
 
-`Apr 2023 - Sep 2023`
+`Apr '23 - Sep '23`
 __Intellipaat__ Data Analyst - Internship
 
 > • Built Python scripts that automated 70% of data preprocessing tasks, reducing manual effort by 15 hours weekly.
@@ -60,40 +60,26 @@ __Intellipaat__ Data Analyst - Internship
 ## Projects
 
 __Fraud Transaction Prediction__ 
-> Developed a high-precision model that attained a 99% accuracy rate measured by the AUC. Improved model performance by implementing oversampling techniques and fine-tuning precision and recall. [GitHub](https://github.com/avinashndatascientist/fraud-detection)
+> Developed a high-precision model that attained a 99% accuracy rate measured by the AUC. Improved model performance by implementing oversampling techniques and fine-tuning precision and recall. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Fraud%20Transaction%20Prediction)
 
 __Twitter Sentiment Analysis__ 
-> Implemented BERT model for tweet sentiment classification. [GitHub](https://github.com/avinashndatascientist/twitter-sentiment)
+> Implemented BERT model for tweet sentiment classification. [GitHub](https://github.com/avinashndatascientist/Projects/tree/main/Sentimental%20analysis)
 
 ## Education
 
-`May 2023`
+`May '23`
 __PSG College of Arts & Science__ Bachelor of Commerce with Computer Applications
 
 ## Certifications
 
-- Advanced Certification in Data Science & AI | IIT Madras, Intellipaat
-
-- Generative AI with LLMs | DeepLearning.AI, AWS
-
-## Positions of Responsibility
-
-- Chairperson, Young Indians (Yi) | 2020-23
-
-- Event Organizer, PSG College of Arts & Science | 2020-23
-
-## Certification
+`2024`
+Advanced Certification in Data Science & AI | IIT Madras, Intellipaat
 
 `2024`
-__DeepLearning.AI & AWS__ Generative AI with Large Language Models
+Generative AI with LLMs | DeepLearning.AI, AWS
 
-`2023`
-__JPMorgan Chase & Co.__ Quantitative Research (_Job Simulation on Forage_)
 
-`2023`
-__BCG X__ Data Science (_Job Simulation on Forage_)
-
-## Volunteering
+## Positions of Responsibility
 `2020-23`
 __Young Indians__ Chairperson  
 > Led strategic initiatives to empower youth leadership and promote thought leadership. Managed diverse verticals, including Innovation, Entrepreneurship, and Climate Change, fostering collaboration and a positive team culture.
