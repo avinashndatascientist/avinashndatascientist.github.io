@@ -14,7 +14,7 @@ Analytics and AI Professional
 </div>
 
 ## About
-QA professional with experience in performance evaluation and team management. Currently focused on trainer oversight and quality metrics while bringing a background in AI model training and data analysis to drive process improvements.
+AI quality and training specialist with hands-on experience in LLM evaluation workflows, and multilingual factuality verification. Proven track record of leading teams to exceed quality benchmarks while reducing handling time.
 
 ## Skills
 __Programming languages:__ T-SQL, Python
@@ -24,33 +24,35 @@ __Tech Stack:__ Zapier, Power BI, Excel
 ## Employment
 
 `Mar '25 - Present`
-__Invisible Technologies__ Quality Analyst - AI Training
+__Invisible Technologies__ Quality Analyst - Citation & Factuality | Tamil Team Lead
 
-> • Lead quality oversight and performance evaluation for a team of AI trainers, ensuring deliverables meet client specifications and quality benchmarks.
->
-> • Analyze performance data and trends to identify areas for improvement and implement corrective action plans.
->
-> • Serve as liaison between training teams and clients to ensure seamless communication and expectation management.
+> • Led a 15-member Tamil language team, driving quality evaluation for accuracy and factual correctness of LLM responses in Tamil and English.
+> 
+> • Elevated team quality rate from approximately 34–50% to over 95% within four months, exceeding the client's 85% benchmark on QC pass rates while simultaneously reducing Average Handling Time
+> 
+> • Conducted weekly QC reviews of 100+ tasks, assessing rating accuracy, search query formulation, source quality, justification strength, and evidence alignment
+> 
+> • Onboarded new team members across 10+ language teams and collaborated with other leads to update evaluation guidelines
+> 
+> • Evaluated citation relevance, necessity, and alignment with model responses; identified hallucinations and unsupported claims
+
 
 `Apr '24 - Mar '25`
-__Invisible Technologies__ Advanced AI Trainer - Software Development
+__Invisible Technologies__ Advanced AI Trainer
 
-> • Trained and fine-tuned AI models for software development applications using SFT and RLHF methodologies.
->
-> • Developed prompt-response sets to define ideal model behavior and enhance Python coding capabilities across diverse use cases, including data analysis and financial modeling.
->
-> • Improved model performance by focusing on error correction, code refinement, and guideline adherence through systematic training iterations.
->
-> • Probed model limitations through edge case testing and boundary analysis, documenting weaknesses to optimize training methodologies and enhance model robustness.
+Coding
+> • Evaluated model-generated Python code across multiple dimensions: functional correctness, logical validity, constraint satisfaction, edge case handling, test case pass rate, readability, and exception handling quality
+> 
+> • Classified code errors by type and severity, including compilation/runtime failures, instruction-following gaps, and expected versus actual output mismatches
+> 
+Multimodal
+> 
+> • Evaluated AI-generated images against user reference images for visual consistency, facial preservation, style accuracy, artifact detection, and prompt coherence; provided scoring rationales to support model improvement
+> 
+> • Annotated short-form videos by captioning on-screen text and labeling user actions with precise time-frame alignment to improve temporal understanding
+
 
 `Oct '23 - Mar '24`
-__HASHh Automations__ Data Analyst - Internship
-
-> • Designed a recommendation system for energy-saving actions, reducing residential bills by an average of 12%.
->
-> • Integrated real-time usage metrics into the consumer app, collaborating with the development team.
-
-`Apr '23 - Sep '23`
 __Intellipaat__ Data Analyst - Internship
 
 > • Built Python scripts that automated 70% of data preprocessing tasks, reducing manual effort by 15 hours weekly.
@@ -101,4 +103,4 @@ __PSG CAS__ Event Organizer
 
 Available on request.
 
-## Last updated: Jan 2026
+## Last updated: Feb 2026
